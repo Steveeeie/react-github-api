@@ -1,0 +1,260 @@
+{
+  "data": {
+    "search": {
+      "repositoryCount": 1197972,
+      "nodes": [
+        {
+          "id": "MDEwOlJlcG9zaXRvcnkyODQ1NzgyMw==",
+          "nameWithOwner": "freeCodeCamp/freeCodeCamp",
+          "primaryLanguage": {
+            "id": "MDg6TGFuZ3VhZ2UxNDA=",
+            "name": "JavaScript",
+            "color": "#f1e05a",
+            "__typename": "Language"
+          },
+          "stargazers": { "totalCount": 308676, "__typename": "StargazerConnection" },
+          "watchers": { "totalCount": 8376, "__typename": "UserConnection" },
+          "__typename": "Repository"
+        },
+        {
+          "id": "MDEwOlJlcG9zaXRvcnkxMDI3MDI1MA==",
+          "nameWithOwner": "facebook/react",
+          "primaryLanguage": {
+            "id": "MDg6TGFuZ3VhZ2UxNDA=",
+            "name": "JavaScript",
+            "color": "#f1e05a",
+            "__typename": "Language"
+          },
+          "stargazers": { "totalCount": 143792, "__typename": "StargazerConnection" },
+          "watchers": { "totalCount": 6640, "__typename": "UserConnection" },
+          "__typename": "Repository"
+        },
+        {
+          "id": "MDEwOlJlcG9zaXRvcnkyOTAyODc3NQ==",
+          "nameWithOwner": "facebook/react-native",
+          "primaryLanguage": {
+            "id": "MDg6TGFuZ3VhZ2UxNDA=",
+            "name": "JavaScript",
+            "color": "#f1e05a",
+            "__typename": "Language"
+          },
+          "stargazers": { "totalCount": 84914, "__typename": "StargazerConnection" },
+          "watchers": { "totalCount": 3710, "__typename": "UserConnection" },
+          "__typename": "Repository"
+        },
+        {
+          "id": "MDEwOlJlcG9zaXRvcnk2MzUzNzI0OQ==",
+          "nameWithOwner": "facebook/create-react-app",
+          "primaryLanguage": {
+            "id": "MDg6TGFuZ3VhZ2UxNDA=",
+            "name": "JavaScript",
+            "color": "#f1e05a",
+            "__typename": "Language"
+          },
+          "stargazers": { "totalCount": 76085, "__typename": "StargazerConnection" },
+          "watchers": { "totalCount": 1839, "__typename": "UserConnection" },
+          "__typename": "Repository"
+        },
+        {
+          "id": "MDEwOlJlcG9zaXRvcnkxNDA5ODA2OQ==",
+          "nameWithOwner": "justjavac/free-programming-books-zh_CN",
+          "primaryLanguage": null,
+          "stargazers": { "totalCount": 63197, "__typename": "StargazerConnection" },
+          "watchers": { "totalCount": 5445, "__typename": "UserConnection" },
+          "__typename": "Repository"
+        },
+        {
+          "id": "MDEwOlJlcG9zaXRvcnkzNDUyNjg4NA==",
+          "nameWithOwner": "ant-design/ant-design",
+          "primaryLanguage": {
+            "id": "MDg6TGFuZ3VhZ2UyODc=",
+            "name": "TypeScript",
+            "color": "#2b7489",
+            "__typename": "Language"
+          },
+          "stargazers": { "totalCount": 56367, "__typename": "StargazerConnection" },
+          "watchers": { "totalCount": 1542, "__typename": "UserConnection" },
+          "__typename": "Repository"
+        },
+        {
+          "id": "MDEwOlJlcG9zaXRvcnkyMzA4MzE1Ng==",
+          "nameWithOwner": "mui-org/material-ui",
+          "primaryLanguage": {
+            "id": "MDg6TGFuZ3VhZ2UxNDA=",
+            "name": "JavaScript",
+            "color": "#f1e05a",
+            "__typename": "Language"
+          },
+          "stargazers": { "totalCount": 54542, "__typename": "StargazerConnection" },
+          "watchers": { "totalCount": 1329, "__typename": "UserConnection" },
+          "__typename": "Repository"
+        },
+        {
+          "id": "MDEwOlJlcG9zaXRvcnk1NDE3MzU5Mw==",
+          "nameWithOwner": "storybookjs/storybook",
+          "primaryLanguage": {
+            "id": "MDg6TGFuZ3VhZ2UyODc=",
+            "name": "TypeScript",
+            "color": "#2b7489",
+            "__typename": "Language"
+          },
+          "stargazers": { "totalCount": 45566, "__typename": "StargazerConnection" },
+          "watchers": { "totalCount": 695, "__typename": "UserConnection" },
+          "__typename": "Repository"
+        },
+        {
+          "id": "MDEwOlJlcG9zaXRvcnk3MDEwNzc4Ng==",
+          "nameWithOwner": "zeit/next.js",
+          "primaryLanguage": {
+            "id": "MDg6TGFuZ3VhZ2UxNDA=",
+            "name": "JavaScript",
+            "color": "#f1e05a",
+            "__typename": "Language"
+          },
+          "stargazers": { "totalCount": 45036, "__typename": "StargazerConnection" },
+          "watchers": { "totalCount": 846, "__typename": "UserConnection" },
+          "__typename": "Repository"
+        },
+        {
+          "id": "MDEwOlJlcG9zaXRvcnkzNjA0MDg5NA==",
+          "nameWithOwner": "gatsbyjs/gatsby",
+          "primaryLanguage": {
+            "id": "MDg6TGFuZ3VhZ2UxNDA=",
+            "name": "JavaScript",
+            "color": "#f1e05a",
+            "__typename": "Language"
+          },
+          "stargazers": { "totalCount": 42262, "__typename": "StargazerConnection" },
+          "watchers": { "totalCount": 963, "__typename": "UserConnection" },
+          "__typename": "Repository"
+        },
+        {
+          "id": "MDEwOlJlcG9zaXRvcnkxMjI1NjM3Ng==",
+          "nameWithOwner": "ionic-team/ionic",
+          "primaryLanguage": {
+            "id": "MDg6TGFuZ3VhZ2UyODc=",
+            "name": "TypeScript",
+            "color": "#2b7489",
+            "__typename": "Language"
+          },
+          "stargazers": { "totalCount": 40245, "__typename": "StargazerConnection" },
+          "watchers": { "totalCount": 1832, "__typename": "UserConnection" },
+          "__typename": "Repository"
+        },
+        {
+          "id": "MDEwOlJlcG9zaXRvcnkxOTg3MjQ1Ng==",
+          "nameWithOwner": "ReactTraining/react-router",
+          "primaryLanguage": {
+            "id": "MDg6TGFuZ3VhZ2UxNDA=",
+            "name": "JavaScript",
+            "color": "#f1e05a",
+            "__typename": "Language"
+          },
+          "stargazers": { "totalCount": 39357, "__typename": "StargazerConnection" },
+          "watchers": { "totalCount": 891, "__typename": "UserConnection" },
+          "__typename": "Repository"
+        },
+        {
+          "id": "MDEwOlJlcG9zaXRvcnk2OTYyOTQzNA==",
+          "nameWithOwner": "FreeCodeCampChina/freecodecamp.cn",
+          "primaryLanguage": {
+            "id": "MDg6TGFuZ3VhZ2UzMDg=",
+            "name": "CSS",
+            "color": "#563d7c",
+            "__typename": "Language"
+          },
+          "stargazers": { "totalCount": 36912, "__typename": "StargazerConnection" },
+          "watchers": { "totalCount": 789, "__typename": "UserConnection" },
+          "__typename": "Repository"
+        },
+        {
+          "id": "MDEwOlJlcG9zaXRvcnk1MjYzMTg0MQ==",
+          "nameWithOwner": "gothinkster/realworld",
+          "primaryLanguage": {
+            "id": "MDg6TGFuZ3VhZ2UxNDA=",
+            "name": "JavaScript",
+            "color": "#f1e05a",
+            "__typename": "Language"
+          },
+          "stargazers": { "totalCount": 36677, "__typename": "StargazerConnection" },
+          "watchers": { "totalCount": 1176, "__typename": "UserConnection" },
+          "__typename": "Repository"
+        },
+        {
+          "id": "MDEwOlJlcG9zaXRvcnkyMjY3MDg1Nw==",
+          "nameWithOwner": "enaqx/awesome-react",
+          "primaryLanguage": null,
+          "stargazers": { "totalCount": 35585, "__typename": "StargazerConnection" },
+          "watchers": { "totalCount": 1406, "__typename": "UserConnection" },
+          "__typename": "Repository"
+        },
+        {
+          "id": "MDEwOlJlcG9zaXRvcnk2MjM2NzU1OA==",
+          "nameWithOwner": "zeit/hyper",
+          "primaryLanguage": {
+            "id": "MDg6TGFuZ3VhZ2UyODc=",
+            "name": "TypeScript",
+            "color": "#2b7489",
+            "__typename": "Language"
+          },
+          "stargazers": { "totalCount": 32521, "__typename": "StargazerConnection" },
+          "watchers": { "totalCount": 498, "__typename": "UserConnection" },
+          "__typename": "Repository"
+        },
+        {
+          "id": "MDEwOlJlcG9zaXRvcnkxNDczNTA0NjM=",
+          "nameWithOwner": "leonardomso/33-js-concepts",
+          "primaryLanguage": {
+            "id": "MDg6TGFuZ3VhZ2UxNDA=",
+            "name": "JavaScript",
+            "color": "#f1e05a",
+            "__typename": "Language"
+          },
+          "stargazers": { "totalCount": 31054, "__typename": "StargazerConnection" },
+          "watchers": { "totalCount": 1037, "__typename": "UserConnection" },
+          "__typename": "Repository"
+        },
+        {
+          "id": "MDEwOlJlcG9zaXRvcnk3MDE5ODg3NQ==",
+          "nameWithOwner": "airbnb/lottie-android",
+          "primaryLanguage": {
+            "id": "MDg6TGFuZ3VhZ2UxNTg=",
+            "name": "Java",
+            "color": "#b07219",
+            "__typename": "Language"
+          },
+          "stargazers": { "totalCount": 28099, "__typename": "StargazerConnection" },
+          "watchers": { "totalCount": 846, "__typename": "UserConnection" },
+          "__typename": "Repository"
+        },
+        {
+          "id": "MDEwOlJlcG9zaXRvcnk2NTc5NDI5Mg==",
+          "nameWithOwner": "styled-components/styled-components",
+          "primaryLanguage": {
+            "id": "MDg6TGFuZ3VhZ2UxNDA=",
+            "name": "JavaScript",
+            "color": "#f1e05a",
+            "__typename": "Language"
+          },
+          "stargazers": { "totalCount": 28039, "__typename": "StargazerConnection" },
+          "watchers": { "totalCount": 382, "__typename": "UserConnection" },
+          "__typename": "Repository"
+        },
+        {
+          "id": "MDEwOlJlcG9zaXRvcnkzMjk0ODg2Mw==",
+          "nameWithOwner": "jondot/awesome-react-native",
+          "primaryLanguage": {
+            "id": "MDg6TGFuZ3VhZ2UxNDA=",
+            "name": "JavaScript",
+            "color": "#f1e05a",
+            "__typename": "Language"
+          },
+          "stargazers": { "totalCount": 26522, "__typename": "StargazerConnection" },
+          "watchers": { "totalCount": 1121, "__typename": "UserConnection" },
+          "__typename": "Repository"
+        }
+      ],
+      "__typename": "SearchResultItemConnection"
+    }
+  }
+}

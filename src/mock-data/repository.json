@@ -1,0 +1,47 @@
+{
+  "data": {
+    "repository": {
+      "id": "MDEwOlJlcG9zaXRvcnkxMDI3MDI1MA==",
+      "nameWithOwner": "facebook/react",
+      "updatedAt": "2020-02-16T15:50:54Z",
+      "languages": {
+        "nodes": [
+          {
+            "id": "MDg6TGFuZ3VhZ2UxNDA=",
+            "name": "JavaScript",
+            "color": "#f1e05a",
+            "__typename": "Language"
+          },
+          {
+            "id": "MDg6TGFuZ3VhZ2UxMzk=",
+            "name": "Shell",
+            "color": "#89e051",
+            "__typename": "Language"
+          },
+          {
+            "id": "MDg6TGFuZ3VhZ2UxOTU=",
+            "name": "CoffeeScript",
+            "color": "#244776",
+            "__typename": "Language"
+          },
+          {
+            "id": "MDg6TGFuZ3VhZ2UyODc=",
+            "name": "TypeScript",
+            "color": "#2b7489",
+            "__typename": "Language"
+          },
+          {
+            "id": "MDg6TGFuZ3VhZ2UxNDU=",
+            "name": "Python",
+            "color": "#3572A5",
+            "__typename": "Language"
+          }
+        ],
+        "__typename": "LanguageConnection"
+      },
+      "stargazers": { "totalCount": 143794, "__typename": "StargazerConnection" },
+      "watchers": { "totalCount": 6641, "__typename": "UserConnection" },
+      "__typename": "Repository"
+    }
+  }
+}
