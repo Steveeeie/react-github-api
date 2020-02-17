@@ -1,5 +1,5 @@
 import React from 'react';
-import { act, render, fireEvent, waitForElement, getByTestId } from '@testing-library/react';
+import { render, fireEvent, waitForElement } from '@testing-library/react';
 import { MockedProvider } from '@apollo/react-testing';
 import { ThemeProvider } from 'styled-components';
 import { BrowserRouter } from 'react-router-dom';

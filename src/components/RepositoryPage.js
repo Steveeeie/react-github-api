@@ -17,6 +17,9 @@ const Title = styled.h1`
   color: ${({ theme }) => theme.colors.white};
   font-size: 1.2rem;
   margin-bottom: 16px;
+  word-wrap: break-word;
+  text-align: center;
+  width: 100%;
 
   @media (min-width: 480px) {
     font-size: 1.6rem;

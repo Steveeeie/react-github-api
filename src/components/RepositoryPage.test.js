@@ -1,9 +1,8 @@
 import React from 'react';
-import { render, waitForElement, getByText, getByTestId } from '@testing-library/react';
+import { render, waitForElement } from '@testing-library/react';
 import { MockedProvider } from '@apollo/react-testing';
 import { ThemeProvider } from 'styled-components';
 import { MemoryRouter, Route } from 'react-router-dom';
-import wait from 'waait';
 import theme from '../theme';
 import RepositoryPage from './RepositoryPage';
 import { QUERY_REPOSITORY } from '../queries';

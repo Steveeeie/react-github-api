@@ -44,6 +44,7 @@ const Title = styled.h1`
   font-size: 18px;
   font-weight: 600;
   margin-bottom: 16px;
+  word-wrap: break-word;
   width: 100%;
 `;
 
