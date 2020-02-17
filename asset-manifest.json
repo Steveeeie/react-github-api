@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.js": "/github-api-react-app/static/js/main.1bde20e2.chunk.js",
+    "main.js.map": "/github-api-react-app/static/js/main.1bde20e2.chunk.js.map",
+    "runtime-main.js": "/github-api-react-app/static/js/runtime-main.7d4614cd.js",
+    "runtime-main.js.map": "/github-api-react-app/static/js/runtime-main.7d4614cd.js.map",
+    "static/js/2.9e547157.chunk.js": "/github-api-react-app/static/js/2.9e547157.chunk.js",
+    "static/js/2.9e547157.chunk.js.map": "/github-api-react-app/static/js/2.9e547157.chunk.js.map",
+    "index.html": "/github-api-react-app/index.html",
+    "precache-manifest.035583513cff1d71096d9e934e975e8f.js": "/github-api-react-app/precache-manifest.035583513cff1d71096d9e934e975e8f.js",
+    "service-worker.js": "/github-api-react-app/service-worker.js",
+    "static/js/2.9e547157.chunk.js.LICENSE.txt": "/github-api-react-app/static/js/2.9e547157.chunk.js.LICENSE.txt",
+    "static/media/icon-search.svg": "/github-api-react-app/static/media/icon-search.eb9b8217.svg",
+    "static/media/logo.svg": "/github-api-react-app/static/media/logo.b0549ef5.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7d4614cd.js",
+    "static/js/2.9e547157.chunk.js",
+    "static/js/main.1bde20e2.chunk.js"
+  ]
+}
