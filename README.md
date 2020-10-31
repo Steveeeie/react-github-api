@@ -1,4 +1,4 @@
-# github-api-react-app
+# react-github-api
 
 ## Description
 
